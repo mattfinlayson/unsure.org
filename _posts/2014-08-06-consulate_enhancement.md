@@ -6,9 +6,7 @@ modified: 2014-08-06
 tags: [devops, python]
 comments: false
 image:
-  feature: sample-image-5.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature:
 ---
 
 For integration between ansible and consul I've been using a third party python client called [consulate](https://github.com/gmr/consulate). It is decent, however both it and consul are new and it doesn't support the full consul HTTP API yet.

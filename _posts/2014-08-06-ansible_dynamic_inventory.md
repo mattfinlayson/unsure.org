@@ -6,9 +6,7 @@ modified: 2014-08-06
 tags: [devops, python]
 comments: false
 image:
-  feature: sample-image-5.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature:
 ---
 I've been building out automation for deploying micro services in ec2. We're using [consul](http://consul.io) for service registration, discovery, health checks, and configuration. Since consul provides an available key value store for configuration we've been trying to define the topology that way. Ansible has some very good documentation and it is one of the things I like most about the project. 
 

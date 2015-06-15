@@ -7,7 +7,6 @@ excerpt: "Porting BaasBox tutorial from Objective-C to Swift"
 tags: [swift, ios]
 image:
   feature:
-date: 2015-06-12T16:04:43-07:00
 ---
 [BaasBox](http://www.baasbox.com) is a tool that allows you to quickly build a backend for an application. The getting started guide for using BaasBox is a little dated and written entirely in Objective-C. The tutorial is fine, but since I'm working in Swift day to day the application I was looking to build would also be in Swift. 
 
