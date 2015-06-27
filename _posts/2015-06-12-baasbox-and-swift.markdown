@@ -2,13 +2,13 @@
 layout: post
 title: "BaasBox and Swift - Part 1"
 modified:
-categories: 
+categories:
 excerpt: "Porting BaasBox tutorial from Objective-C to Swift"
-tags: [swift, ios]
+tags: [swift, ios, baasbox]
 image:
   feature:
 ---
-[BaasBox](http://www.baasbox.com) is a tool that allows you to quickly build a backend for an application. The getting started guide for using BaasBox is a little dated and written entirely in Objective-C. The tutorial is fine, but since I'm working in Swift day to day the application I was looking to build would also be in Swift. 
+[BaasBox](http://www.baasbox.com) is a tool that allows you to quickly build a backend for an application. The getting started guide for using BaasBox is a little dated and written entirely in Objective-C. The tutorial is fine, but since I'm working in Swift day to day the application I was looking to build would also be in Swift.
 
 My first thought was to just google around and find newer tutorials. I found a single post that seemed relevant, [Swifing with BaasBox - Building a quiz app with BaasBox](http://www.chupamobile.com/tutorial-ios/swifting-with-baasbox-597 ) Rather than lose all hope I decided that porting the tutorial app to Swift might be a good exercise in BaasBox and might give me an idea if I liked the tool.
 
