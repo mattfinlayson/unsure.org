@@ -2,7 +2,7 @@
 
 title:            unsure.org
 locale:           en_US
-#url:              unsure.org
+url:              https://unsure.org
 
 
 # Jekyll configuration
@@ -15,7 +15,8 @@ sass:
   style: compressed
 gems:
   - jekyll-sitemap
-
+plugins:
+  - jekyll-feed
 kramdown:
   auto_ids: true
   footnote_nr: 1
